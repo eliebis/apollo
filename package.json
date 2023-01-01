@@ -9,6 +9,6 @@
   },
   "version": "0.1.0",
   "devDependencies": {
-    "webpack": "^4.41.2"
+    "webpack": "^5.75.0"
   }
 }
